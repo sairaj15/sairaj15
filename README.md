@@ -107,7 +107,7 @@
 
 [![X](https://img.shields.io/badge/X-@sairajonchain-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sairajonchain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sairaj%20Sawant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairajsanjaysawant)
-[![Gmail](https://img.shields.io/badge/Email-sairajssawant@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairajssawant@proton.meL)
+[![Gmail](https://img.shields.io/badge/Email-sairajssawant@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairajssawant@proton.me)
 
 </div>
 
