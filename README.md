@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Flutter+Developer;Java+%2FDeveloper;Privacy+%2Nerd;Building+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Flutter+Developer;Java+Developer;Privacy+Nerd;Building+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ### 🧑‍💻 About Me
 
-- 📱 Building cross-platform, production-grade apps with **Flutter**
-- ☕ Sharpening and writing clean, efficient code with **Java & DSA**
-- 🔐 Obsessed with **privacy** as it's a principle, not a trend
-- ⛓️ Background in **Solidity + EVM** and contracts, protocols, Web3
-- 🎯 Goal: Shipping real products
+- Building cross-platform, production-grade apps with **Flutter**
+- Writing clean, efficient code with **Java & DSA**
+- Obsessed with **privacy** as it's a principle, not a trend
+- Background in **Solidity + EVM** and contracts, protocols, Web3
+- Goal: Shipping real products
 
 <br clear="right"/>
 
