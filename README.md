@@ -17,8 +17,8 @@
 ### 🧑‍💻 About Me
 
 - Building cross-platform, production-grade apps with **Flutter**
-- Writing clean, efficient code with **Java & DSA**
-- Obsessed with **privacy** as it's a principle, not a trend
+- Writing clean, efficient code with **Java**
+- Obsessed with **privacy** as a principle
 - Background in **Solidity + EVM** and contracts, protocols, Web3
 - Goal: Shipping real products
 
@@ -49,14 +49,12 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 **Blockchain & Web3**
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)
-![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </div>
 
