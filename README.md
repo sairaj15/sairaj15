@@ -64,20 +64,20 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-three-sigma-86.vercel.app/api?username=sairaj15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats-three-sigma-86.vercel.app/api/top-langs/?username=sairaj15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-three-sigma-86.vercel.app/api?username=sairajbuilds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-three-sigma-86.vercel.app/api/top-langs/?username=sairajbuilds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sairaj15&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sairajbuilds&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sairaj15&color=a78bfa&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=sairajbuildsd&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
 
