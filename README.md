@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sairaj%20Sawant&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%7C%20Java%20%7C%20Privacy%20%7C%20Web3&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sairaj%20Sawant&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%7C%20Java%20%7C%20MERN&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Flutter+Developer;Java+Developer;Privacy+Nerd;Building+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Flutter+Developer;MERN+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,8 @@
 ### 🧑‍💻 About Me
 
 - Building cross-platform, production-grade apps with **Flutter**
+- Building web applications with **MERN** stack
 - Writing clean, efficient code with **Java**
-- Obsessed with **privacy** as a principle
 - Background in **Solidity + EVM** and contracts, protocols, Web3
 - Goal: Shipping real products
 
